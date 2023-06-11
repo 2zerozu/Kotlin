@@ -1,4 +1,4 @@
-package programmersLv1
+package programmersLv2
 
 fun main() {
     val clothes = listOf(listOf("yellow_hat", "headgear"), listOf("blue_sunglasses", "eyewear"), listOf("green_turban", "headgear"))
